@@ -1,0 +1,4 @@
+﻿  WordManipulationProgram.cpp
+c:\users\owner\desktop\projects for resume\wordmanipulationprogram\wordmanipulationprogram\wordmanipulationprogram.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  WordManipulationProgram.vcxproj -> C:\Users\Owner\Desktop\Projects For Resume\WordManipulationProgram\Debug\WordManipulationProgram.exe
+  WordManipulationProgram.vcxproj -> C:\Users\Owner\Desktop\Projects For Resume\WordManipulationProgram\Debug\WordManipulationProgram.pdb (Full PDB)
